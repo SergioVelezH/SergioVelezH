@@ -9,9 +9,7 @@
 <h5> Sobre mi:</h5>
 <p>
     Soy un Full Stack Web Developer apasionado y ambicioso con experiencia tanto en Frontend como en Backend. Mi enfoque minucioso y organizado se refleja en la creación de soluciones robustas y en el diseño de interfaces atractivas.
-
     Disfruto colaborar en equipos multidisciplinarios, aprovechando mis habilidades interpersonales para comunicar ideas de manera efectiva. Constantemente busco crecimiento, tanto personal como profesional, manteniéndome al día con las últimas tendencias y tecnologías del desarrollo web.
-
     Busco oportunidades desafiantes donde pueda aplicar mis conocimientos y contribuir al éxito de proyectos innovadores. ¡Conéctate conmigo para explorar posibilidades de colaboración!
 </p>
 
