@@ -1,32 +1,21 @@
-### Hi there 👋
-
-<!--
-**SergioVelezH/SergioVelezH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-<h1 align="center"> Hi, my name is Ignacio Olivera, I'm a Software Developer!  :computer: </h1>
 
 
-<h5> About me:</h5>
+
+<h1 align="center"> Hola, mi nombre es Sergio Vélez, Ingeniero en Software   :computer: </h1>
+
+
+<h5> Sobre mi:</h5>
 <p>
-      Full-stack developer with experience in the design, development, testing,
-      and maintenance of web applications with the domain of different platforms, languages, and systems.
-       I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams
+    Soy un Full Stack Web Developer apasionado y ambicioso con experiencia tanto en Frontend como en Backend. Mi enfoque minucioso y organizado se refleja en la creación de soluciones robustas y en el diseño de interfaces atractivas.
+
+    Disfruto colaborar en equipos multidisciplinarios, aprovechando mis habilidades interpersonales para comunicar ideas de manera efectiva. Constantemente busco crecimiento, tanto personal como profesional, manteniéndome al día con las últimas tendencias y tecnologías del desarrollo web.
+
+    Busco oportunidades desafiantes donde pueda aplicar mis conocimientos y contribuir al éxito de proyectos innovadores. ¡Conéctate conmigo para explorar posibilidades de colaboración!
 </p>
 
-<h5>Current Stack: </h5>
+<h5>Tecnologias: </h5>
       <ul>
             <li>
                   Javascript / Typescript
@@ -35,27 +24,20 @@ Here are some ideas to get you started:
                   React js / Redux js / Next js
             </li>
             <li>
-                  Angular
-            </li>
-            <li>
                   Node js / Express
             </li>
             <li>
-                  C# / .Net
-            </li>
-            <li>
-                  SQL / Mongo / Informix
-            </li>
-            <li>
-                  More is coming...
+                  SQL / PostgreSQL
             </li>
       </ul>
 
 
       
  &nbsp;
-## :paperclip: How to reach me:
+## :paperclip: Contacto:
+
 <span >
-<a href="https://www.linkedin.com/in/ignacio-olivera-3942461a2/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
-<a href="mailto:oliveraignacio02@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
+<a href="https://www.linkedin.com/in/sergio-v%C3%A9lez-435510284/" ><img width="5%" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> &nbsp;
 </span>
+
+<h5>Correo: sergiovelezhernandez11@gmail.com</h5>
